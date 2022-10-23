@@ -7,7 +7,7 @@ Los pasos para el uso son los siguientes:
 
 1.Base de datos:
   
-  -Abrir archivo y copiar el codigo SQL.
+  -Abrir archivo "sistema_rutas.sql" y copiar el codigo SQL.
   
   -Abrir PHPMYADMIN.
 
