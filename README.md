@@ -6,8 +6,6 @@ Los pasos para el uso son los siguientes:
 
 
 1.Base de datos:
-
-  -Abrir carpeta base de datos.
   
   -Abrir archivo y copiar el codigo SQL.
   
